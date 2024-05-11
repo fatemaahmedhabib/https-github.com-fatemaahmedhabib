@@ -7,12 +7,8 @@ strong commitment to continuous learning</p>
 
 <summary>Tech Stack 🛠</summary>
 <br>
-
-<p align="center">
-<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 
-</p>
 
 <summary>My GitHub Stats ✨</summary>
 <br>
