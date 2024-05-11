@@ -1,7 +1,7 @@
 
 <p align="center">
-Studying bioinformatics with a focus on data engineering, I share insights through my YouTube channel, articles, and a podcast, leveraging my expertise as an Upwork freelancer
-</p>
+I am a Cyber Security enthusiast with hands-on experience in various aspects of cybersecurity, underscored by a
+strong commitment to continuous learning</p>
 <br>
 
 <details>
