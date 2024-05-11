@@ -5,7 +5,6 @@ strong commitment to continuous learning</p>
 <br>
 
 
-<details>
 <summary>Tech Stack 🛠</summary>
 <br>
 
@@ -19,9 +18,7 @@ strong commitment to continuous learning</p>
 ![HTML](https://img.shields.io/badge/html-05122A?style=for-the-badge&logo=html&logoColor=blue)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=for-the-badge&logo=sql&logoColor=yellow)&nbsp;
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-05122A?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
-
 <br>
-</details>
 
 <summary>My GitHub Stats ✨</summary>
 <br>
