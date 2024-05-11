@@ -1,48 +1,9 @@
-<br>
-
-<p align="center">
-  <h3>
-    Eng. Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
-  </h3>
-</p>
 
 <p align="center">
 Studying bioinformatics with a focus on data engineering, I share insights through my YouTube channel, articles, and a podcast, leveraging my expertise as an Upwork freelancer
 </p>
 <br>
 
-<!--
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Data%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
-</p> 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Engineer%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
-</p> 
--->
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer;Never%20Give%20Up;&font=Fira%20Code&center=true&width=440&height=45&color=B69495&vCenter=true&size=22"></a>
-</p> 
-
-
-
-<!--
-<br>
-
-<p align="center">
-<body>
-  <div style="display: flex; justify-content: center;">
-    <div style="flex: 1;">
-      <p align="center">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
-      </p>
-    </div>
-    -->
-
-  
 <details>
   <summary>My Social Media 🤩</summary>
   <div>
