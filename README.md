@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/CSS-05122A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">&nbsp;
   <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">&nbsp;
   <img src="https://img.shields.io/badge/Oracle_SQL-05122A?style=for-the-badge&logo=oracle&logoColor=red" alt="Oracle SQL">&nbsp;
-  <img src="https://img.shields.io/badge/Social_Media-05122A?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Social Media">&nbsp;
 </div>
 <br><br>
 
