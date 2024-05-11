@@ -3,7 +3,7 @@
 I am a Cyber Security enthusiast with hands-on experience in various aspects of cybersecurity, underscored by a
 strong commitment to continuous learning</p>
 <br>
-
+</p>
 
 <summary>Tech Stack 🛠</summary>
 <br>
